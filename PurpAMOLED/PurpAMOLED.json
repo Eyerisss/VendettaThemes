@@ -1,9 +1,9 @@
 {
-    "name": "PurpAMOLED",
-    "description": "AMOLED version of PurpDark",
+    "name": "E22C5A AMOLED",
+    "description": "AMOLED version of PurpDark Modified by me",
     "authors": [
         {
-            "name": "@vve1",
+            "name": "@vve1, eyeriss",
             "id": "670986272377929743"
         }
     ],
@@ -16,22 +16,22 @@
             "#9C3EBB"
         ],
         "TEXT_NORMAL": [
-            "#FAEBFF"
+            "#e9e5f7"
         ],
         "TEXT_MUTED": [
-            "#6C4878"
+            "#c7c1e0"
         ],
         "TEXT_LINK": [
-            "#E69CFF"
+            "#e22c5a"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9C3EBB"
+            "#e22c5a"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#DF7FFF"
+            "#e22c5a"
         ],
         "INTERACTIVE_MUTED": [
-            "#6C4878"
+            "#444056"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -40,13 +40,13 @@
            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#120C13"
+            "#0a0811"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#1F1521"
+            "#120f1e"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -62,34 +62,34 @@
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1F1521"
+            "#1c192b"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1F1521"
+            "#1c192b"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1B0122"
+            "#444056"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1F1521"
+            "#444056"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#A4A4A4"
+            "#0a0811"
         ],
         "CHANNELS_DEFAULT": [
-            "#A571B7"
+            "#0a0811"
         ],
         "TEXT_DANGER": [
-            "#FC0E61"
+            "#e22c5a"
         ],
         "KEYBOARD": [
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#9C3EBB"
+            "#c7c1e0"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -99,20 +99,20 @@
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#A571B7",
-        "PRIMARY_400": "#A571B7",
-        "PRIMARY_500": "#A571B7",
+        "PRIMARY_360": "#e22c5a",
+        "PRIMARY_400": "#e22c5a",
+        "PRIMARY_500": "#e22c5a",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
 
-        "BRAND_260": "#7F08A8",
-        "BRAND_360": "#7F08A8",
-        "BRAND_500": "#7F08A8",
-        "BRAND_560": "#F0C4FF",
-        "WHITE_500": "#F0C4FF",
+        "BRAND_260": "#b63162",
+        "BRAND_360": "#b63162",
+        "BRAND_500": "#b63162",
+        "BRAND_560": "#c7c1e0",
+        "WHITE_500": "#c7c1e0",
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
