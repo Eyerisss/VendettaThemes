@@ -10,10 +10,10 @@
     "semanticColors": {
             
         "HEADER_PRIMARY": [
-            "#9C3EBB"
+            "#e9e5f7"
         ],
         "HEADER_SECONDARY": [
-            "#9C3EBB"
+            "#e9e5f7"
         ],
         "TEXT_NORMAL": [
             "#e9e5f7"
@@ -108,9 +108,9 @@
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
 
-        "BRAND_260": "#b63162",
-        "BRAND_360": "#b63162",
-        "BRAND_500": "#b63162",
+        "BRAND_260": "#e22c5a",
+        "BRAND_360": "#e22c5a",
+        "BRAND_500": "#e22c5a",
         "BRAND_560": "#c7c1e0",
         "WHITE_500": "#c7c1e0",
         "YELLOW_300": "#B569E0",
